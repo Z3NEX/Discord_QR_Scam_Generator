@@ -1,4 +1,5 @@
 # Discord_QR_Scam_Generator
+# Developer Zenex
   Discord_QR_Scam_Generator / 
   to use the program click pip_install_requirements.bat / 
   After doing this, start run_script.bat / 
