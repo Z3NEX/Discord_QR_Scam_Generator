@@ -1,0 +1,1 @@
+# Discord_QR_Scam_Generator
